@@ -1,0 +1,10 @@
+mlflow>=2.13.0
+scikit-learn
+matplotlib
+onnx==1.15.0
+onnxruntime==1.16.3
+skl2onnx==1.16.0
+pyspark==3.3.1
+shortuuid
+pytest
+pytest-ordering

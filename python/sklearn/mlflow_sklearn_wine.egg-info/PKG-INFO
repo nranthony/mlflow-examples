@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mlflow-sklearn-wine
+Version: 0.0.1
+Summary: MLflow sklearn wine quality advanced example
+Author: Andre
+Requires-Python: ==3.8.13
+Requires-Dist: mlflow>=2.13.0
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: onnx==1.15.0
+Requires-Dist: onnxruntime==1.16.3
+Requires-Dist: skl2onnx==1.16.0
+Requires-Dist: pyspark==3.3.1
+Requires-Dist: shortuuid
+Requires-Dist: pytest
+Requires-Dist: pytest-ordering
